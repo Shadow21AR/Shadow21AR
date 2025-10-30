@@ -4,19 +4,19 @@ Cyber Security Engineer | CTF Player | Curious about systems, networks, and the 
 
 ---
 
-### about
+### About
 
 Mostly self-taught and hands-on.
 I spend time building, breaking, and automating systems — from reverse engineering binaries to securing infrastructure.
-I like figuring out how stuff works and making it harder to abuse.
+I like figuring out how stuff works and making it harder to abuse, check out my site at [VOIDREAD](https://voidread.pages.dev/).
 
-### tools & languages
+### Tools & Languages
 
-#### languages
+#### Languages
 
 `python` `bash` `powershell` `go`
 
-#### security
+#### Security
 
 `nmap` `wireshark` `burp` `metasploit` `bloodhound` `netexec` `impacket` `responder` `kerbrute` `ldapdomaindump` `gobuster` `ffuf` `feroxbuster` `subfinder` `john` `hashcat` `mimikatz` `rubeus` `ghidra` `radare2` `sqlmap` `wfuzz` `hydra` `netcat` `socat` `enum4linux` `smbclient` `rpcclient` `powersploit` `etc` 
 
