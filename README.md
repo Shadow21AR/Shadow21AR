@@ -1,6 +1,14 @@
 <div align="center">
 
-# Shadow21AR
+```
+░██████   ░██                          ░██                               ░██████    ░██      ░███    ░█████████  
+ ░██   ░██  ░██                          ░██                              ░██   ░██ ░████     ░██░██   ░██     ░██ 
+░██         ░████████   ░██████    ░████████  ░███████  ░██    ░██    ░██       ░██   ░██    ░██  ░██  ░██     ░██ 
+ ░████████  ░██    ░██       ░██  ░██    ░██ ░██    ░██ ░██    ░██    ░██   ░█████    ░██   ░█████████ ░█████████  
+        ░██ ░██    ░██  ░███████  ░██    ░██ ░██    ░██  ░██  ░████  ░██   ░██        ░██   ░██    ░██ ░██   ░██   
+ ░██   ░██  ░██    ░██ ░██   ░██  ░██   ░███ ░██    ░██   ░██░██ ░██░██   ░██         ░██   ░██    ░██ ░██    ░██  
+  ░██████   ░██    ░██  ░█████░██  ░█████░██  ░███████     ░███   ░███    ░████████ ░██████ ░██    ░██ ░██     ░██ 
+```
 
 Security researcher. Breaking things, learning why they broke, repeating.
 
@@ -11,20 +19,16 @@ Security researcher. Breaking things, learning why they broke, repeating.
 
 ---
 
-## Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd43b" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Nushell-4EAA25?style=for-the-badge&logo=nushell&logoColor=ffffff" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffd43b)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff)
+![Nushell](https://img.shields.io/badge/Nushell-4EAA25?style=flat-square&logo=nushell&logoColor=ffffff)
 
 ---
 
-## Projects
+### Projects
 
 | | |
 |:--|:--|
@@ -34,51 +38,38 @@ Security researcher. Breaking things, learning why they broke, repeating.
 
 ---
 
-## GitHub Activity
+### Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadow21AR&theme=tokyonight&bg_color=0d1117&color=c9a227&line=c9a227&point=c9a227&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Shadow21AR&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=c9a227&icon_color=c9a227&include_all_commits=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Shadow21AR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=c9a227&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadow21AR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=c9a227&include_all_commits=true">
+</picture>
 
-<p align="center">
-  <details open>
-    <summary><b>Contribution Snake</b></summary>
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shadow21AR/Shadow21AR/raw/output/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shadow21AR/Shadow21AR/raw/output/github-contribution-grid-snake-dark.svg">
-      <img src="https://github.com/Shadow21AR/Shadow21AR/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-    </picture>
-  </details>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow21AR&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=c9a227">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow21AR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a227">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow21AR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a227">
+</picture>
 
----
-
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadow21AR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=c9a227&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow21AR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a227" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Shadow21AR&theme=tokyonight&hide_border=true&background=0d1117&stroke=c9a227&ring=c9a227&fire=c9a227" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Shadow21AR&theme=light&hide_border=true&background=ffffff&stroke=c9a227&ring=c9a227&fire=c9a227">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Shadow21AR&theme=tokyonight&hide_border=true&background=0d1117&stroke=c9a227&ring=c9a227&fire=c9a227">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadow21AR&theme=tokyonight&hide_border=true&background=0d1117&stroke=c9a227&ring=c9a227&fire=c9a227">
+</picture>
 
 ---
 
-## Profile Summary
+### Contribution Snake
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadow21AR&theme=tokyonight" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shadow21AR/Shadow21AR/raw/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shadow21AR/Shadow21AR/raw/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github.com/Shadow21AR/Shadow21AR/raw/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ---
 
-```
-exploring the depths of the void
-```
+*exploring the depths of the void*
 
 </div>
