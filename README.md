@@ -26,9 +26,9 @@ Security researcher focused on Active Directory, Windows exploitation, and red t
 
 **Projects**
 
-<a href="https://github.com/ForgeNet21AR/forge"><img src="https://img.shields.io/badge/forge-c9a227?style=social&logoColor=ffffff" alt="forge"></a>
-<a href="https://github.com/Shadow21AR/htb-cli"><img src="https://img.shields.io/badge/htb--cli-9fef00?style=social&logoColor=111111" alt="htb-cli"></a>
-<a href="https://github.com/Shadow21AR/seerAD"><img src="https://img.shields.io/badge/seerAD-c9a227?style=social&logoColor=ffffff" alt="seerAD"></a>
+<a href="https://github.com/ForgeNet21AR/forge"><img src="https://img.shields.io/badge/forge-c9a227?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjY2EyMjI3Ij48cGF0aCBkPSJNMTIgMkMxNC40MiAyIDIgNC40MiAyIDJTMTQuNDIgMjIgMTIgMjJhMTAgMTAgMCAwIDAtMjAgMEM1LjU4IDIyIDIgMTQuNDIgMiAxMiAyIDEwLjI4IDUuNTggNiAxMiA2YTIwIDIwIDAgMCAxIDIwIDBaIi8+PHBhdGggZD0iTTE2IDE0aC0yVjh2LTRoNHY0aC0ydjJoLTJ2NGgtNGwtNCA0aDN2MnoiLz48L3N2Zz4=&logoColor=ffffff" alt="forge"></a>
+<a href="https://github.com/Shadow21AR/htb-cli"><img src="https://img.shields.io/badge/htb--cli-9fef00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjOWZlZjAwIj48cGF0aCBkPSJNMiA4bDMgM2wzLTR6bS0yIDRIOWw1IDVsNS01eiIvPjwvc3ZnPg==&logoColor=111111" alt="htb-cli"></a>
+<a href="https://github.com/Shadow21AR/seerAD"><img src="https://img.shields.io/badge/seerAD-c9a227?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjY2EyMjI3Ij48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMi02LjQ4IDEyLTEyWiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjYiIGZpbGw9IiMwMDAiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIyIiBmaWxsPSIjY2EyMjI3Ii8+PC9zdmc+&logoColor=ffffff" alt="seerAD"></a>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Shadow21AR&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=c9a227&icon_color=c9a227&include_all_commits=true">
