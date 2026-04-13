@@ -17,18 +17,18 @@ Offensive security researcher. Breaking things, building tools, learning from bo
 [![voidread](https://img.shields.io/badge/-voidread-c9a227?style=flat-square&logoColor=ffffff)](https://voidread.pages.dev/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=ffffff)](https://discordapp.com/users/960119774526988348)
 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffd43b">
-<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000">
-<img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Nushell-4EAA25?style=flat-square&logo=nushell&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=ffd43b">
+<img src="https://img.shields.io/badge/-00ADD8?style=flat-square&logo=go&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=000000">
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=rust&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-239120?style=flat-square&logo=c-sharp&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-4EAA25?style=flat-square&logo=nushell&logoColor=ffffff">
 
 **Projects**
 
-<a href="https://github.com/ForgeNet21AR/forge"><img src="https://img.shields.io/badge/forge-2563EB?style=for-the-badge&logo=github&logoColor=ffffff" alt="forge"></a>
-<a href="https://github.com/Shadow21AR/htb-cli"><img src="https://img.shields.io/badge/htb--cli-9fef00?style=for-the-badge&logo=command&logoColor=111111" alt="htb-cli"></a>
-<a href="https://github.com/Shadow21AR/seerAD"><img src="https://img.shields.io/badge/seerAD-c9a227?style=for-the-badge&logoColor=ffffff" alt="seerAD"></a>
+<a href="https://github.com/ForgeNet21AR/forge"><img src="https://img.shields.io/badge/-forge-2563EB?style=for-the-badge&logo=github" alt="forge"></a>
+<a href="https://github.com/Shadow21AR/htb-cli"><img src="https://img.shields.io/badge/-htb--cli-9fef00?style=for-the-badge&logo=command" alt="htb-cli"></a>
+<a href="https://github.com/Shadow21AR/seerAD"><img src="https://img.shields.io/badge/-seerAD-c9a227?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2NmMTYyZiI+PHBhdGggZD0iTTEyIDNDNy43NyAzIDUgNy43NyA1IDEycyAyLjc3IDkgNy43NyA5LTQuMjMgOS05LTMuMjMgNy43Ny05IDcuNzd6Ii8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMyIgZmlsbD0iIzAwMCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" alt="seerAD"></a>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Shadow21AR&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=c9a227&icon_color=c9a227&include_all_commits=true">
