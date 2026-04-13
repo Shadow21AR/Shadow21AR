@@ -21,9 +21,11 @@ Python · Go · JavaScript · Rust · C# · Nushell
 
 **Projects**
 
-[![forge](https://img.shields.io/badge/-forge-c9a227?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIiBmaWxsPSIjYzkxMjI3Ij48cGF0aCBkPSJNMTAgMEw1IDVsMSAxIDRsMS00bC0yLTIgMi0yLTIgMi0yLTJ6bTEwIDBsLTUgNWwxIC0xIDRsMS00bC0yIDJMMjAgMTB6Ii8+PC9zdmc+&logoColor=ffffff)](https://github.com/ForgeNet21AR/forge)
-[![htb-cli](https://img.shields.io/badge/-htb--cli-9fef00?style=flat-square&logo=hackthebox&logoColor=111111)](https://github.com/Shadow21AR/htb-cli)
-[![seerAD](https://img.shields.io/badge/-seerAD-c9a227?style=flat-square&logoColor=ffffff)](https://github.com/Shadow21AR/seerAD)
+<p>
+  <a href="https://github.com/ForgeNet21AR/forge"><img src="https://img.shields.io/badge/forge-c9a227?style=for-the-badge&logoColor=ffffff" alt="forge"></a>
+  <a href="https://github.com/Shadow21AR/htb-cli"><img src="https://img.shields.io/badge/htb--cli-9fef00?style=for-the-badge&logoColor=111111" alt="htb-cli"></a>
+  <a href="https://github.com/Shadow21AR/seerAD"><img src="https://img.shields.io/badge/seerAD-c9a227?style=for-the-badge&logoColor=ffffff" alt="seerAD"></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Shadow21AR&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=c9a227&icon_color=c9a227&include_all_commits=true">
