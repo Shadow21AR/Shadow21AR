@@ -13,8 +13,8 @@
 Security researcher. Breaking things, learning why they broke, repeating.
 
 [![HTB](https://img.shields.io/badge/-HackTheBox-9fef00?style=flat-square&logo=hackthebox&logoColor=111111)](https://app.hackthebox.com/users/1317214)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Shafow21A)
-[![Blog](https://img.shields.io/badge/-Blog-c9a227?style=flat-square&logo=jekyll&logoColor=ffffff)](https://voidread.pages.dev/)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/Shafow21A)
+[![voidread](https://img.shields.io/badge/-voidread-c9a227?style=flat-square&logoColor=ffffff)](https://voidread.pages.dev/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=ffffff)](https://discordapp.com/users/960119774526988348)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffd43b)
