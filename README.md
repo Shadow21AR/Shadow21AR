@@ -24,9 +24,12 @@ CEH certified. Regular HTB player.
 Python · Go · JavaScript · Rust · C# · Nushell
 
 **Projects**
-[forge](https://github.com/ForgeNet21AR/forge) · Build console for .NET security tools
-[htb-cli](https://github.com/Shadow21AR/htb-cli) · HackTheBox CLI
-[seerAD](https://github.com/Shadow21AR/seerAD) · Active Directory enumeration (WIP)
+
+[forge](https://github.com/ForgeNet21AR/forge) — Build console for .NET security tools
+
+[htb-cli](https://github.com/Shadow21AR/htb-cli) — HackTheBox CLI
+
+[seerAD](https://github.com/Shadow21AR/seerAD) — Active Directory enumeration (WIP)
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Shadow21AR&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=c9a227&icon_color=c9a227&include_all_commits=true">
