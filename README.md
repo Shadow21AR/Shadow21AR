@@ -27,8 +27,8 @@ Security researcher focused on Active Directory, Windows exploitation, and red t
 **Projects**
 
 <a href="https://github.com/ForgeNet21AR/forge"><img src="https://img.shields.io/badge/forge-c9a227?style=for-the-badge&logo=github-actions" alt="forge"></a>
-<a href="https://github.com/Shadow21AR/htb-cli"><img src="https://img.shields.io/badge/htb--cli-9fef00?style=for-the-badge&logo=terminal&logoColor=111111" alt="htb-cli"></a>
-<a href="https://github.com/Shadow21AR/seerAD"><img src="https://img.shields.io/badge/seerAD-c9a227?style=for-the-badge&logo=awesomelists&logoColor=ffffff" alt="seerAD"></a>
+<a href="https://github.com/Shadow21AR/htb-cli"><img src="https://img.shields.io/badge/htb--cli-9fef00?style=for-the-badge&logo=console&logoColor=111111" alt="htb-cli"></a>
+<a href="https://github.com/Shadow21AR/seerAD"><img src="https://img.shields.io/badge/seerAD-c9a227?style=for-the-badge&logoColor=ffffff" alt="seerAD"></a>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Shadow21AR&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=c9a227&icon_color=c9a227&include_all_commits=true">
