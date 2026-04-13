@@ -12,24 +12,18 @@
 
 Security researcher focused on Active Directory, Windows exploitation, and red team operations. Building tools, breaking systems, learning from both.
 
-CEH certified. Regular HTB player.
-
 [![HTB](https://img.shields.io/badge/-HackTheBox-9fef00?style=flat-square&logo=hackthebox&logoColor=111111)](https://app.hackthebox.com/users/1317214)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/Shafow21A)
 [![voidread](https://img.shields.io/badge/-voidread-c9a227?style=flat-square&logoColor=ffffff)](https://voidread.pages.dev/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=ffffff)](https://discordapp.com/users/960119774526988348)
 
----
-
 Python · Go · JavaScript · Rust · C# · Nushell
 
 **Projects**
 
-[forge](https://github.com/ForgeNet21AR/forge) — Build console for .NET security tools
-
-[htb-cli](https://github.com/Shadow21AR/htb-cli) — HackTheBox CLI
-
-[seerAD](https://github.com/Shadow21AR/seerAD) — Active Directory enumeration (WIP)
+| [forge](https://github.com/ForgeNet21AR/forge) | Build console for .NET security tools |
+| [htb-cli](https://github.com/Shadow21AR/htb-cli) | HackTheBox CLI |
+| [seerAD](https://github.com/Shadow21AR/seerAD) | Active Directory enumeration (WIP) |
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Shadow21AR&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=c9a227&icon_color=c9a227&include_all_commits=true">
