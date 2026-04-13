@@ -2,29 +2,39 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Run every 6 hours
-  workflow_dispatch:  # Allow manual trigger
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         id: snake
         with:
           github_user_name: Shadow21AR
-          svg_path: output/github-snake-dark.svg
+          svg_path: output/github-contribution-grid-snake.svg
           _color: "c9a227"
+
+      - name: Generate Dark Snake Animation
+        uses: Platane/snk@v3
+        id: snake-dark
+        with:
+          github_user_name: Shadow21AR
+          svg_path: output/github-contribution-grid-snake-dark.svg
+          _color: "c9a227"
+          options: "--dark"
 
       - name: Push to branch
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add output/github-snake-dark.svg
+          git add output/
           git commit -m "Update snake animation [skip ci]"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
