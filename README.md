@@ -18,10 +18,10 @@ Offensive security researcher. Breaking things, building tools, learning from bo
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=ffffff)](https://discordapp.com/users/960119774526988348)
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd43b">
-<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=00ADD8">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Nushell-4EAA25?style=for-the-badge&logo=nushell&logoColor=ffffff">
 
 **Projects**
