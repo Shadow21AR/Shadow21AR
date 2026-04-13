@@ -26,7 +26,7 @@ Offensive security researcher. Breaking things, building tools, learning from bo
 
 **Projects**
 
-<a href="https://github.com/ForgeNet21AR/forge"><img src="https://img.shields.io/badge/forge-2563EB?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIiBmaWxsPSIjZmZmZiI+PHBhdGggZD0iTTE1LjUgM0M4LjA1IDMgMiA5LjA1IDIgMTVzNi4wNSAxMiAxMy41IDEyIDEzLjUtNi4wNSAxMy41LTEyWiIvPjxwYXRoIGQ9Ik05IDE1aDN2LTRoLTR2NGgydi0yaC0ydi00aC00djRoMnoiLz48L3N2Zz4=" alt="forge"></a>
+<a href="https://github.com/ForgeNet21AR/forge"><img src="https://img.shields.io/badge/forge-2563EB?style=for-the-badge&logo=github-actions" alt="forge"></a>
 <a href="https://github.com/Shadow21AR/htb-cli"><img src="https://img.shields.io/badge/htb--cli-9fef00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIiBmaWxsPSIjOWZlZjAwIj48dGV4dCB4PSIxIiB5PSIxNSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxNCIgZmlsbD0iIzAwMCI+XD48L3RleHQ+PC9zdmc+" alt="htb-cli"></a>
 <a href="https://github.com/Shadow21AR/seerAD"><img src="https://img.shields.io/badge/seerAD-c9a227?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIiBmaWxsPSIjY2ExMjI3Ij48Y2lyY2xlIGN4PSIxMCIgY3k9IjEwIiByPSI4IiBmaWxsPSJub25lIiBzdHJva2U9IiNjYTEyMjciIHN0cm9rZS13aWR0aD0iMiIvPjxjaXJjbGUgY3g9IjEwIiBjeT0iMTAiIHI9IjMiIGZpbGw9IiNjYTEyMjciLz48Y2lyY2xlIGN4PSIxMCIgY3k9IjEwIiByPSIxLjUiIGZpbGw9IiMwMDAiLz48L3N2Zz4=" alt="seerAD"></a>
 
