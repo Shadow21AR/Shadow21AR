@@ -26,8 +26,8 @@ Offensive security researcher. Breaking things, building tools, learning from bo
 
 **Projects**
 
-<a href="https://github.com/ForgeNet21AR/forge"><img src="https://img.shields.io/badge/forge-c9a227?style=for-the-badge&logo=github-actions&logoColor=ffffff" alt="forge"></a>
-<a href="https://github.com/Shadow21AR/htb-cli"><img src="https://img.shields.io/badge/htb--cli-9fef00?style=for-the-badge&logo=terminal&logoColor=111111" alt="htb-cli"></a>
+<a href="https://github.com/ForgeNet21AR/forge"><img src="https://img.shields.io/badge/forge-2563EB?style=for-the-badge&logo=github&logoColor=ffffff" alt="forge"></a>
+<a href="https://github.com/Shadow21AR/htb-cli"><img src="https://img.shields.io/badge/htb--cli-9fef00?style=for-the-badge&logo=command&logoColor=111111" alt="htb-cli"></a>
 <a href="https://github.com/Shadow21AR/seerAD"><img src="https://img.shields.io/badge/seerAD-c9a227?style=for-the-badge&logoColor=ffffff" alt="seerAD"></a>
 
 <picture>
