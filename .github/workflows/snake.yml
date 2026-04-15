@@ -10,24 +10,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          persist-credentials: false
+          fetch-depth: 0
 
-      - name: Generate SVG
-        run: |
-          mkdir -p output
-          npx --yes platane/snk --github-username Shadow21AR --svg-output output/github-contribution-grid-snake.svg --color c9a227
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Shadow21AR
+          svg_path: output/github-contribution-grid-snake.svg
+          _color: "c9a227"
 
       - name: Push to branch
-        if: success()
         run: |
+          mkdir -p output
+          git init output
           cd output
-          git init
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Shadow21AR/Shadow21AR.git
           git add .
-          git commit -m "Update snake animation [skip ci]"
-          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Shadow21AR/Shadow21AR.git HEAD:gh-pages || true
+          git commit -m "Update snake animation"
+          git push -f origin HEAD:gh-pages
