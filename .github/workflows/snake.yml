@@ -12,6 +12,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Create output directory
+        run: mkdir -p output
+
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         id: snake
