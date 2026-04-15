@@ -11,17 +11,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          github_user_name: Shadow21AR
-          svg_path: output/github-contribution-grid-snake.svg
-          _color: "c9a227"
+          node-version: '20'
+
+      - name: Generate SVG
+        run: |
+          mkdir -p output
+          npx --yes platane/snk --github-username Shadow21AR --svg-output output/github-contribution-grid-snake.svg --color c9a227
 
       - name: Push to branch
+        if: success()
         run: |
+          cd output
+          git init
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -f output/
-          git commit -m "Update snake animation [skip ci]" || echo "No changes to commit"
-          git push || echo "Push failed"
+          git add .
+          git commit -m "Update snake animation [skip ci]"
+          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Shadow21AR/Shadow21AR.git HEAD:gh-pages || true
