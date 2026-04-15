@@ -18,17 +18,19 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Shadow21AR
-          svg_path: output/snake.svg
-          _color: "c9a227"
+          svg_path: github-snake.svg
+          _color: c9a227
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: snake-svg
-          path: output/
-
-      - name: Debug output
+      - name: Setup git
         run: |
-          ls -la output/ || echo "No output directory"
-          cat output/*.svg || echo "No SVG file"
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+
+      - name: Create branch and push
+        run: |
+          git checkout --orphan gh-pages
+          rm -rf *
+          mv github-snake.svg index.svg
+          git add .
+          git commit -m "Snake animation"
+          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Shadow21AR/Shadow21AR.git gh-pages
