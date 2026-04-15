@@ -55,9 +55,9 @@ Offensive security researcher. Breaking things, building tools, learning from bo
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shadow21AR/Shadow21AR/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shadow21AR/Shadow21AR/raw/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://github.com/Shadow21AR/Shadow21AR/raw/output/github-contribution-grid-snake.svg">
 </picture>
 
 *exploring the depths of the void*
