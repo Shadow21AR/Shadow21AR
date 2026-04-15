@@ -17,12 +17,12 @@ Offensive security researcher. Breaking things, building tools, learning from bo
 [![voidread](https://img.shields.io/badge/-voidread-c9a227?style=flat-square&logoColor=ffffff)](https://voidread.pages.dev/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=ffffff)](https://discordapp.com/users/960119774526988348)
 
-<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
-<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nushell/nushell-original.svg">
+<img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+<img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
+<img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<img width="28" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nushell/nushell-original.svg">
 
 **Projects**
 
