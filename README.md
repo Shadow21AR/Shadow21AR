@@ -20,7 +20,7 @@ Offensive security researcher. Breaking things, building tools, learning from bo
 <img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
 <img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-line.svg">
+<svg width="28" height="28" viewBox="0 0 128 128"><path fill="#60be86" d="M64,7.83H4.77L14.95,95.13l49,25,.06,0,49.07-25L123.23,7.83Zm42.77,54.86c0,.88,0,1.67-.77,2L73.25,80.44l-2.42,1.13-.27-3.15V72.23l.24-1.57,1.09-.47L95.07,59.81l-21.54-9.6L64.35,68.34,58.9,78.87l-1.22,2.27-2.05-.9L22,64.71a2.42,2.42,0,0,1-1.45-2V56.91a2.39,2.39,0,0,1,1.42-2l34-15.73,3.21-1.44v9.66l.24,1.34-1.56.7L34.45,59.79,56.3,69.42l8.05-16,6.21-12.65,1.13-2.28,1.81.91L106,54.89c.73.35.76,1.14.76,2Z"/></svg>
 <img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 <img width="28" height="28" src="https://avatars.githubusercontent.com/u/50749515?s=48&v=4">
