@@ -14,20 +14,21 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
 
-      - uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Shadow21AR
-          svg_path: output/github-contribution-grid-snake.svg
+          svg_path: output/snake.svg
           _color: "c9a227"
 
-      - name: Push to branch
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: snake-svg
+          path: output/
+
+      - name: Debug output
         run: |
-          mkdir -p output
-          git init output
-          cd output
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
-          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Shadow21AR/Shadow21AR.git
-          git add .
-          git commit -m "Update snake animation"
-          git push -f origin HEAD:gh-pages
+          ls -la output/ || echo "No output directory"
+          cat output/*.svg || echo "No SVG file"
