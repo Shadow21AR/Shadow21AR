@@ -17,16 +17,16 @@ Offensive security researcher. Breaking things, building tools, learning from bo
 [![voidread](https://img.shields.io/badge/-voidread-c9a227?style=flat-square&logoColor=ffffff)](https://voidread.pages.dev/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=ffffff)](https://discordapp.com/users/960119774526988348)
 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd43b">
-<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=00ADD8">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Nushell-4EAA25?style=for-the-badge&logo=nushell&logoColor=ffffff">
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nushell/nushell-original.svg">
 
 **Projects**
 
-<a href="https://github.com/ForgeNet21AR/forge"><img src="https://img.shields.io/badge/forge-2563EB?style=for-the-badge&logo=github-actions" alt="forge"></a>
+<a href="https://github.com/ForgeNet21AR/forge"><img src="https://img.shields.io/badge/forge-c9a227?style=for-the-badge&logo=github-actions&logoColor=ffffff" alt="forge"></a>
 <a href="https://github.com/Shadow21AR/htb-cli"><img src="https://img.shields.io/badge/htb--cli-9fef00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIiBmaWxsPSIjOWZlZjAwIj48dGV4dCB4PSIxIiB5PSIxNSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxNCIgZmlsbD0iIzAwMCI+XD48L3RleHQ+PC9zdmc+" alt="htb-cli"></a>
 <a href="https://github.com/Shadow21AR/seerAD"><img src="https://img.shields.io/badge/seerAD-c9a227?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIiBmaWxsPSIjY2ExMjI3Ij48Y2lyY2xlIGN4PSIxMCIgY3k9IjEwIiByPSI4IiBmaWxsPSJub25lIiBzdHJva2U9IiNjYTEyMjciIHN0cm9rZS13aWR0aD0iMiIvPjxjaXJjbGUgY3g9IjEwIiBjeT0iMTAiIHI9IjMiIGZpbGw9IiNjYTEyMjciLz48Y2lyY2xlIGN4PSIxMCIgY3k9IjEwIiByPSIxLjUiIGZpbGw9IiMwMDAiLz48L3N2Zz4=" alt="seerAD"></a>
 
