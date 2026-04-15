@@ -20,9 +20,9 @@ Offensive security researcher. Breaking things, building tools, learning from bo
 <img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
 <img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
+<img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-line.svg">
 <img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-<img width="28" height="28" src="ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+<img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 <img width="28" height="28" src="https://avatars.githubusercontent.com/u/50749515?s=48&v=4">
 
 **Projects**
