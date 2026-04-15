@@ -8,36 +8,20 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    
     steps:
       - uses: actions/checkout@v4
 
-      - name: Create output directory
-        run: mkdir -p output
-
       - name: Generate Snake Animation
         uses: Platane/snk@v3
-        id: snake
         with:
           github_user_name: Shadow21AR
           svg_path: output/github-contribution-grid-snake.svg
           _color: "c9a227"
 
-      - name: Generate Dark Snake Animation
-        uses: Platane/snk@v3
-        id: snake-dark
-        with:
-          github_user_name: Shadow21AR
-          svg_path: output/github-contribution-grid-snake-dark.svg
-          _color: "c9a227"
-          options: "--dark"
-
       - name: Push to branch
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add output/
-          git commit -m "Update snake animation [skip ci]"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git add -f output/
+          git commit -m "Update snake animation [skip ci]" || echo "No changes to commit"
+          git push || echo "Push failed"
